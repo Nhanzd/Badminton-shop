@@ -103,7 +103,7 @@ frontend/
 ├── account.html
 ├── checkout.html
 ├── forgot-password.html
-├── index.html
+├── home.html
 ├── signup.html
 │
 ├── pages/

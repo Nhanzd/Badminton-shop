@@ -16,7 +16,7 @@ document.getElementById("signupForm").addEventListener("submit", function(e) {
     // regex
     let nameRegex = /^([A-Z][a-z]*)(\s[A-Z][a-z]*)*$/;
     let emailRegex = /^[a-zA-Z0-9._%+-]+@gmail\.com$/;
-    let phoneRegex = /^0\d{9}$/;
+    let phoneRegex = /^(03|05|07|08|09)\d{8}$/
     let passRegex = /^[\x00-\x7F]{6,15}$/;
 
    // TÊN
